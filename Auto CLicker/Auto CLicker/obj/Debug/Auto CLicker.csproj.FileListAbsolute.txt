@@ -1,0 +1,10 @@
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\bin\Debug\Auto CLicker.exe.config
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\bin\Debug\Auto CLicker.exe
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\bin\Debug\Auto CLicker.pdb
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\obj\Debug\Auto CLicker.csprojAssemblyReference.cache
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\obj\Debug\Auto_CLicker.Form1.resources
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\obj\Debug\Auto_CLicker.Properties.Resources.resources
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\obj\Debug\Auto CLicker.csproj.GenerateResource.cache
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\obj\Debug\Auto CLicker.csproj.CoreCompileInputs.cache
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\obj\Debug\Auto CLicker.exe
+C:\Users\costin\source\repos\Auto CLicker\Auto CLicker\obj\Debug\Auto CLicker.pdb
